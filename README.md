@@ -1,4 +1,4 @@
-# java-URLReader
+# JAVA lendo direto da URL
 :boom: Aplicação em Java para ler diretamente da URL
 
 # Saída do Console
